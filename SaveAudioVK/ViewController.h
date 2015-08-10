@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+#import <VKSdk.h>
+@interface ViewController : UIViewController <VKSdkDelegate, UITableViewDataSource, UITableViewDelegate>
+@property (strong, nonatomic) IBOutlet UIButton *signInSignOutButton;
+- (IBAction)signInSignOut:(id)sender;
 
 
 @end

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>FFCircularProgressView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSONModel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SaveAudioVK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>VK-ios-sdk.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>390FAFAEAA703F54F661319CEEA9CAC2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4EF15874FE25744E311F93AFB1276589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E2D18899D8F2E0B3192D6BDD3FC558A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>742A44B12109799DCAC3C903DA37E9FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5515AE98B878C127E7F27550A39CE6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
