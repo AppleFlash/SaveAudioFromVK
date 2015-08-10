@@ -122,7 +122,6 @@ static NSString *identifier = @"Cell";
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *filePath = [[paths objectAtIndex:0] stringByAppendingPathComponent:[NSString stringWithFormat:@"%@", uniqueName]];
     operation.outputStream = [NSOutputStream outputStreamToFileAtPath:filePath append:YES];
-    [NSOutputStream cancelPreviousPerformRequestsWithTarget:<#(id)#> selector:<#(SEL)#> object:<#(id)#>];
     
     NSLog(@"%@", filePath);
     [operation setDownloadProgressBlock:^(NSUInteger bytesRead, long long totalBytesRead, long long totalBytesExpectedToRead) {
